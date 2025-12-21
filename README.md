@@ -7,16 +7,16 @@ Outlier detection, crucial for identifying unusual patterns with significant imp
 ## Citation
 If you find this repository useful, please cite:
 ```
-@article{Chen2024MFIOD,
-    title = {Fusing multi-scale fuzzy information to detect outliers},
-    author = {Baiyang Chen and Yongxiang Li and Dezhong Peng and Hongmei Chen and Zhong Yuan},
-    journal = {Information Fusion},
-    volume = {103},
-    pages = {102133},
-    year = {2024},
-    issn = {1566-2535},
-    doi = {10.1016/j.inffus.2023.102133},
-    }
+@Article{chen2025GDOF,
+  author   = {Chen, Baiyang and Yuan, Zhong and Peng, Dezhong and Chen, Hongmei and Song, Xiaomin and Zheng, Huiming},
+  journal  = {IEEE Transactions on Fuzzy Systems},
+  title    = {Label-Informed Outlier Detection Based on Granule Density},
+  year     = {2025},
+  number   = {4},
+  pages    = {1391-1401},
+  volume   = {33},
+  doi      = {10.1109/TFUZZ.2024.3514853},
+}
 ```
 
 ## Environment
